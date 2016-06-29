@@ -1,0 +1,11 @@
+{
+  "name": "bower-practice-project",
+  "description": "Playing around with bower...",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.9.1 - 2"
+  }
+}
